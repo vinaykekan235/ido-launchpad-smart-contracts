@@ -2,7 +2,7 @@
 A Solidity-based IDO launchpad repository for creating and managing token launch pools on BSC-compatible networks.
 
 ## Project description
-This repository contains smart contracts, deployment configuration, and support files for an IDO launchpad. The system is built with Truffle and Solidity, and it supports:
+This repository contains smart contracts, deployment configuration, and support files for an IDO launchpad. The system is built with Truffle and Solidity,and it supports:
 
 - Creating launch pools for token sales
 - Managing token deposits and lockups
